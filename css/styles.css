@@ -1,0 +1,106 @@
+/*################## TYPE SELECTORS ###################*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  color: #40514E;
+}
+
+/*################## CLASS SELECTORS ###################*/
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #F4F9F9;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.personal-pic {
+  margin-top: 30px;
+}
+
+.webdesign-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.uidesign-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+  margin-right: 10px;
+}
+
+.copyright-text {
+  color: #EAF6F6
+}
+
+.about-container {
+  background-color: #CCF2F4;
+}
+
+.about-footer {
+  background-color: #B8FFF9;
+  position: relative;
+  top: 810px;
+}
+
+/*################## ID SELECTORS ###################*/
